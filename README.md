@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Reddy Dadireddy (sai-dadireddy)
+# 👋 Hi, I'm Sainath Reddy Dadireddy (sai-dadireddy)
 
 **Cloud | DevOps | Linux | AWS | Oracle DBA | PeopleSoft Automation Enthusiast**
 
